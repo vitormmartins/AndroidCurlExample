@@ -22,6 +22,7 @@ android {
             path file('src/main/cpp/Android.mk')
         }
     }
+    namespace 'io.robertying.androidcurlexample'
 }
 
 dependencies {
